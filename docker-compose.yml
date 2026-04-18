@@ -1,0 +1,65 @@
+# RealWaste MLOps - Docker Compose for local development
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: realwaste-api
+    ports:
+      - "8000:8000"
+    environment:
+      - MODEL_PATH=/app/artifacts/model/model.keras
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    volumes:
+      - ./artifacts:/app/artifacts
+    depends_on:
+      - mlflow
+    networks:
+      - realwaste-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  mlflow:
+    image: python:3.12-slim
+    container_name: realwaste-mlflow
+    working_dir: /app
+    command: >
+      sh -c "pip install mlflow &&
+             mlflow server
+             --host 0.0.0.0
+             --port 5000
+             --backend-store-uri sqlite:///mlflow.db
+             --default-artifact-root /app/mlruns"
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./mlruns:/app/mlruns
+      - ./mlflow.db:/app/mlflow.db
+    networks:
+      - realwaste-network
+    restart: unless-stopped
+
+  # Optional: Jupyter for experiments
+  jupyter:
+    image: python:3.12-slim
+    container_name: realwaste-jupyter
+    working_dir: /app
+    command: >
+      sh -c "pip install jupyterlab &&
+             jupyter lab --ip 0.0.0.0 --port 8888 --no-browser"
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    networks:
+      - realwaste-network
+    restart: unless-stopped
+
+networks:
+  realwaste-network:
+    driver: bridge

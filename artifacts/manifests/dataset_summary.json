@@ -1,0 +1,13 @@
+{
+  "archive_path": "/Users/pritamwani/realwaste-mlops/data/raw/realwaste.zip",
+  "dataset_root": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste",
+  "class_counts": {
+    "Cardboard": 461,
+    "Food Organics": 411,
+    "Glass": 420,
+    "Metal": 790,
+    "Miscellaneous Trash": 495,
+    "Paper": 500
+  },
+  "total_images": 3077
+}

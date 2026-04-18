@@ -1,0 +1,72 @@
+# RealWaste MLOps - Production Docker Compose with Nginx
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: realwaste-api
+    environment:
+      - MODEL_PATH=/app/artifacts/model/model.keras
+      - TF_CPP_MIN_LOG_LEVEL=2
+    volumes:
+      - ./artifacts:/app/artifacts:ro
+    networks:
+      - realwaste-network
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+          cpus: '2'
+        reservations:
+          memory: 2G
+          cpus: '1'
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  nginx:
+    image: nginx:alpine
+    container_name: realwaste-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api
+    networks:
+      - realwaste-network
+    restart: unless-stopped
+
+  # MLflow for experiment tracking
+  mlflow:
+    image: python:3.12-slim
+    container_name: realwaste-mlflow
+    working_dir: /app
+    command: >
+      sh -c "pip install mlflow &&
+             mlflow server
+             --host 0.0.0.0
+             --port 5000
+             --backend-store-uri sqlite:///mlflow.db
+             --default-artifact-root /app/mlruns"
+    ports:
+      - "5000:5000"
+    volumes:
+      - mlruns-data:/app/mlruns
+      - mlflow-db:/app/mlflow.db
+    networks:
+      - realwaste-network
+    restart: unless-stopped
+
+networks:
+  realwaste-network:
+    driver: bridge
+
+volumes:
+  mlruns-data:
+  mlflow-db:

@@ -1,0 +1,48 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ML/DL
+*.h5
+*.pb
+*.onnx
+*.pth
+*.ckpt
+mlruns/
+mlartifacts/
+
+# Data
+*.csv.gz
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test/Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Local config
+.env
+*.local.yaml

@@ -1,0 +1,108 @@
+# RealWaste MLOps - Production Kubernetes Deployment
+# Save as: k8s/deployment.yaml
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: realwaste-api
+  labels:
+    app: realwaste
+    component: api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: realwaste
+      component: api
+  template:
+    metadata:
+      labels:
+        app: realwaste
+        component: api
+    spec:
+      containers:
+        - name: api
+          image: realwaste-api:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8000
+              name: http
+          env:
+            - name: MODEL_PATH
+              value: /app/artifacts/model/model.keras
+            - name: TF_CPP_MIN_LOG_LEVEL
+              value: "2"
+          resources:
+            requests:
+              memory: "2Gi"
+              cpu: "1000m"
+            limits:
+              memory: "4Gi"
+              cpu: "2000m"
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 30
+            periodSeconds: 10
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 5
+          volumeMounts:
+            - name: model-storage
+              mountPath: /app/artifacts
+      volumes:
+        - name: model-storage
+          persistentVolumeClaim:
+            claimName: realwaste-models
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: realwaste-api
+spec:
+  type: ClusterIP
+  ports:
+    - port: 80
+      targetPort: 8000
+      protocol: TCP
+      name: http
+  selector:
+    app: realwaste
+    component: api
+
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: realwaste-models
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 10Gi
+
+---
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: realwaste-api-hpa
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: realwaste-api
+  minReplicas: 2
+  maxReplicas: 10
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: 70

@@ -1,0 +1,41 @@
+{
+  "model_name": "realwaste-mobilenetv2-transfer",
+  "model_path": "artifacts/model/model.keras",
+  "image_size": [
+    224,
+    224
+  ],
+  "class_names": [
+    "Cardboard",
+    "Food Organics",
+    "Glass",
+    "Metal",
+    "Miscellaneous Trash",
+    "Paper"
+  ],
+  "preprocessing": {
+    "color_mode": "RGB",
+    "resize": [
+      224,
+      224
+    ],
+    "dtype": "float32"
+  },
+  "metrics": {
+    "accuracy": 0.8391304612159729,
+    "train_accuracy": 0.9330855011940002
+  },
+  "training": {
+    "epochs": 50,
+    "base_model": "MobileNetV2",
+    "class_weights": {
+      "0": 1.113871635610766,
+      "1": 1.2497096399535423,
+      "2": 1.219954648526077,
+      "3": 0.648583484026522,
+      "4": 1.0366088631984585,
+      "5": 1.0247619047619048
+    }
+  },
+  "mlflow_tracking": true
+}

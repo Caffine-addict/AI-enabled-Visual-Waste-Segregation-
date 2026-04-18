@@ -1,0 +1,46 @@
+project:
+  name: realwaste-mlops
+  random_seed: 42
+
+paths:
+  raw_data_dir: data/raw
+  external_data_dir: data/external
+  processed_data_dir: data/processed
+  dataset_archive: data/raw/realwaste.zip
+  manifests_dir: artifacts/manifests
+  model_dir: artifacts/model
+  reports_dir: reports
+
+dataset:
+  expected_classes:
+    - Cardboard
+    - Food Organics
+    - Glass
+    - Metal
+    - Miscellaneous Trash
+    - Paper
+  train_ratio: 0.7
+  val_ratio: 0.15
+  test_ratio: 0.15
+  image_size: [224, 224]
+  batch_size: 32
+
+training:
+  epochs: 15
+  learning_rate: 0.0001
+  model_name: realwaste-efficientnetv2b2
+  model_filename: model.keras
+  metadata_filename: model_metadata.json
+
+evaluation:
+  minimum_accuracy: 0.90
+  minimum_macro_f1: 0.85
+
+mlflow:
+  tracking_uri: file:./mlruns
+  experiment_name: realwaste-mlops
+
+serving:
+  api_title: RealWaste MLOps API
+  api_version: 0.1.0
+  gradio_path: /gradio

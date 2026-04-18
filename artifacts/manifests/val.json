@@ -1,0 +1,1846 @@
+{
+  "split": "val",
+  "count": 460,
+  "records": [
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_12.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_124.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_129.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_130.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_131.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_145.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_162.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_165.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_174.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_178.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_196.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_197.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_203.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_204.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_212.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_22.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_221.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_222.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_223.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_232.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_244.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_249.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_262.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_267.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_27.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_281.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_283.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_284.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_297.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_308.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_31.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_311.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_329.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_345.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_347.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_356.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_360.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_368.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_369.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_38.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_392.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_396.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_398.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_400.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_403.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_408.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_409.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_412.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_413.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_414.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_416.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_418.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_423.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_438.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_44.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_442.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_453.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_458.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_49.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_53.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_6.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_70.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_73.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_77.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_80.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_84.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_92.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_94.jpg"
+    },
+    {
+      "class_name": "Cardboard",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Cardboard/Cardboard_99.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_100.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_12.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_132.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_138.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_141.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_148.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_156.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_158.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_167.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_177.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_18.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_189.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_190.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_196.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_198.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_202.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_207.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_210.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_211.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_23.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_230.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_235.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_237.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_238.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_239.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_241.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_247.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_25.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_253.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_274.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_276.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_285.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_286.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_288.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_290.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_293.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_302.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_309.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_313.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_317.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_318.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_327.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_332.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_336.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_351.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_354.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_361.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_364.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_366.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_372.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_383.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_386.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_406.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_409.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_48.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_54.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_62.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_63.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_8.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_88.jpg"
+    },
+    {
+      "class_name": "Food Organics",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Food Organics/Food Organics_9.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_10.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_108.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_110.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_113.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_117.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_131.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_133.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_140.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_156.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_164.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_175.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_179.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_18.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_190.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_204.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_205.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_206.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_214.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_221.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_222.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_224.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_229.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_231.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_240.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_248.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_285.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_288.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_295.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_299.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_300.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_308.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_314.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_326.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_33.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_348.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_35.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_353.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_364.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_37.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_373.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_375.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_377.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_398.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_406.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_409.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_412.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_413.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_43.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_44.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_45.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_46.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_48.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_51.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_53.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_56.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_59.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_61.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_7.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_71.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_76.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_80.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_88.jpg"
+    },
+    {
+      "class_name": "Glass",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Glass/Glass_97.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_104.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_125.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_127.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_139.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_146.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_154.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_158.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_16.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_160.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_163.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_167.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_173.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_178.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_185.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_187.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_188.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_195.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_2.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_203.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_204.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_23.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_230.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_24.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_265.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_266.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_298.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_305.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_307.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_309.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_334.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_345.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_350.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_352.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_356.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_364.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_370.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_377.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_384.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_387.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_388.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_396.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_399.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_402.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_411.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_421.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_422.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_423.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_425.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_432.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_442.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_444.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_467.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_469.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_47.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_478.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_480.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_482.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_49.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_492.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_493.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_495.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_496.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_498.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_512.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_515.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_521.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_536.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_538.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_540.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_543.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_551.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_563.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_565.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_567.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_572.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_58.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_584.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_589.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_604.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_607.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_611.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_612.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_617.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_636.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_639.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_644.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_646.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_651.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_656.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_657.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_66.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_660.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_662.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_664.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_666.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_669.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_683.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_695.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_704.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_714.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_72.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_724.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_738.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_740.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_742.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_744.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_748.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_751.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_753.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_757.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_763.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_768.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_774.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_81.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_9.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_91.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_92.jpg"
+    },
+    {
+      "class_name": "Metal",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Metal/Metal_93.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_111.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_112.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_118.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_12.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_124.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_135.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_136.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_141.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_156.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_157.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_158.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_17.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_173.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_175.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_177.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_178.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_183.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_19.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_196.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_202.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_214.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_220.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_225.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_23.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_239.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_245.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_248.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_254.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_258.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_288.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_291.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_299.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_306.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_313.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_330.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_337.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_338.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_345.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_359.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_362.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_364.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_365.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_367.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_37.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_372.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_378.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_382.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_384.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_387.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_388.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_392.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_394.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_395.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_4.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_402.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_412.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_432.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_452.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_453.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_454.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_457.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_459.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_46.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_462.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_471.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_473.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_474.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_477.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_487.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_488.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_5.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_61.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_71.jpg"
+    },
+    {
+      "class_name": "Miscellaneous Trash",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_82.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_10.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_109.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_113.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_12.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_124.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_125.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_126.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_128.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_130.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_132.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_140.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_152.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_158.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_16.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_161.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_168.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_175.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_181.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_182.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_194.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_201.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_216.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_230.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_25.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_258.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_26.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_272.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_273.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_275.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_280.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_281.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_288.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_293.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_294.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_302.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_305.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_309.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_311.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_324.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_334.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_335.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_339.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_346.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_348.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_349.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_357.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_366.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_395.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_397.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_403.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_409.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_413.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_421.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_43.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_435.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_442.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_453.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_456.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_489.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_492.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_493.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_495.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_499.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_500.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_54.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_56.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_59.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_6.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_62.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_65.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_71.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_82.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_9.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_93.jpg"
+    },
+    {
+      "class_name": "Paper",
+      "file_path": "/Users/pritamwani/realwaste-mlops/data/external/realwaste-main/RealWaste/Paper/Paper_94.jpg"
+    }
+  ]
+}
