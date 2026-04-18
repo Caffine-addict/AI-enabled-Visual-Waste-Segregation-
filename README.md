@@ -235,22 +235,22 @@ Configuration files in `configs/`:
 
 ## 🎓 Dataset
 
-This project uses the **RealWaste** dataset from Kaggle:
-- **Source**: https://www.kaggle.com/datasets/aryashashank/realwaste
+This project uses the **RealWaste** dataset. The full dataset (~3,077 images) is included in this repository under `data/RealWaste/`.
+
+- **Source**: Original from [Kaggle - RealWaste Dataset](https://www.kaggle.com/datasets/aryashashank/realwaste)
 - **Classes**: 6 (Cardboard, Food Organics, Glass, Metal, Miscellaneous Trash, Paper)
 - **Total Images**: ~3,077
 
 ### Data Structure
 ```
 data/
-└── realwaste-main/
-    └── RealWaste/
-        ├── Cardboard/
-        ├── Food Organics/
-        ├── Glass/
-        ├── Metal/
-        ├── Miscellaneous Trash/
-        └── Paper/
+└── RealWaste/
+    ├── Cardboard/          (461 images)
+    ├── Food Organics/     (411 images)
+    ├── Glass/              (420 images)
+    ├── Metal/              (790 images)
+    ├── Miscellaneous Trash/(495 images)
+    └── Paper/              (500 images)
 ```
 
 ## 🤝 Contributing
