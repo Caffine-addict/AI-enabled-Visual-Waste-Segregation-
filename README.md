@@ -10,8 +10,8 @@ A production-ready MLOps project for automated waste classification using deep l
 
 ## 🚀 Features
 
-- **Deep Learning Model**: MobileNetV2 transfer learning with class-balanced training
-- **High Accuracy**: 82%+ validation accuracy across all 6 waste categories
+- **Deep Learning Model**: EfficientNetV2-S transfer learning with class-balanced training
+- **High Accuracy**: 96.3% validation accuracy across all 6 waste categories
 - **Production Ready**: Complete MLOps pipeline with Docker, Kubernetes, and CI/CD
 - **API Server**: FastAPI-based REST API for real-time inference
 - **Web Interface**: Gradio-based demo UI for easy testing
@@ -19,18 +19,19 @@ A production-ready MLOps project for automated waste classification using deep l
 - **Data Versioning**: DVC for dataset management
 - **Containerized**: Docker and Docker Compose support
 
-## 📊 Model Performance
+## 📊 Model Performance (EfficientNetV2-S)
 
 | Class | Precision | Recall | F1-Score |
 |-------|-----------|--------|----------|
-| Cardboard | 0.78 | 0.91 | 0.84 |
-| Food Organics | 0.75 | 1.00 | 0.86 |
-| Glass | 0.77 | 0.92 | 0.84 |
-| Metal | 0.90 | 0.74 | 0.81 |
-| Miscellaneous Trash | 0.82 | 0.68 | 0.74 |
-| Paper | 0.91 | 0.79 | 0.84 |
+| Cardboard | 0.94 | 0.97 | 0.96 |
+| Food Organics | 1.00 | 1.00 | 1.00 |
+| Glass | 1.00 | 0.97 | 0.98 |
+| Metal | 0.97 | 0.97 | 0.97 |
+| Miscellaneous Trash | 0.96 | 0.91 | 0.93 |
+| Paper | 0.92 | 0.97 | 0.95 |
 
-**Overall Accuracy**: 82.17%
+**Overall Accuracy**: 96.30%
+**AUC Score**: 0.997
 
 ## 🏗️ Project Structure
 
