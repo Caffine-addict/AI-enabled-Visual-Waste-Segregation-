@@ -30,6 +30,22 @@ This report presents a comprehensive comparison between our EfficientNetV2-S mod
 | **Model Size** | ~24MB | ~98MB | - |
 | **Inference Speed** | ~15ms/image | ~25ms/image | - |
 
+### Per-Class Metrics (Detailed)
+
+| Class | Precision | Recall | F1-Score | Accuracy |
+|-------|-----------|--------|----------|----------|
+| Cardboard | 94.37% | 97.10% | 95.71% | 97.10% |
+| Food Organics | 100.00% | 100.00% | 100.00% | 100.00% |
+| Glass | 100.00% | 96.83% | 98.39% | 96.83% |
+| Metal | 96.61% | 96.61% | 96.61% | 96.61% |
+| Miscellaneous Trash | 95.71% | 90.54% | 93.06% | 90.54% |
+| Paper | 92.41% | 97.33% | 94.81% | 97.33% |
+| **Overall** | **96.36%** | **96.30%** | **96.30%** | **96.30%** |
+
+### Per-Class Metrics Bar Chart
+
+![Metrics Chart](metrics_chart.png)
+
 ### Per-Class Accuracy Comparison
 
 | Class | MobileNetV2 | EfficientNetV2-S | Delta |
