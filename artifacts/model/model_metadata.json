@@ -1,9 +1,9 @@
 {
-  "model_name": "realwaste-efficientnetv2",
+  "model_name": "realwaste-mobilenetv2-transfer",
   "model_path": "artifacts/model/model.keras",
   "image_size": [
-    300,
-    300
+    224,
+    224
   ],
   "class_names": [
     "Cardboard",
@@ -16,28 +16,26 @@
   "preprocessing": {
     "color_mode": "RGB",
     "resize": [
-      300,
-      300
+      224,
+      224
     ],
     "dtype": "float32"
   },
   "metrics": {
-    "accuracy": 0.9630434513092041,
-    "auc": 0.9968622482252218,
-    "train_accuracy": 0.9990706443786621,
-    "train_auc": 0.9999975548652634
+    "accuracy": 0.8304347991943359,
+    "train_accuracy": 0.9126393795013428
   },
   "training": {
-    "epochs": 50,
-    "base_model": "EfficientNetV2-S",
+    "epochs": 5,
+    "base_model": "MobileNetV2",
     "class_weights": {
-      "0": 1.0901044585782844,
-      "1": 1.1952184703317903,
-      "2": 1.1723976762086046,
-      "3": 0.7072495963198421,
-      "4": 1.029181412992105,
-      "5": 1.0197609509915
+      "0": 1.113871635610766,
+      "1": 1.2497096399535423,
+      "2": 1.219954648526077,
+      "3": 0.648583484026522,
+      "4": 1.0366088631984585,
+      "5": 1.0247619047619048
     }
   },
-  "mlflow_tracking": false
+  "mlflow_tracking": true
 }

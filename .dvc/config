@@ -1,0 +1,6 @@
+[core]
+    remote = localremote
+['remote "myremote"']
+    url = /path/to/local/storage
+['remote "localremote"']
+    url = /Users/pritamwani/dvc-storage/realwaste
