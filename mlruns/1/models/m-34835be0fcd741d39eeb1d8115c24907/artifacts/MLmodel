@@ -1,0 +1,20 @@
+artifact_path: /Users/pritamwani/AI-enabled-Visual-Waste-Segregation-/mlruns/1/models/m-34835be0fcd741d39eeb1d8115c24907/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.14.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.13
+mlflow_version: 3.11.1
+model_id: m-34835be0fcd741d39eeb1d8115c24907
+model_size_bytes: 23835094
+model_uuid: m-34835be0fcd741d39eeb1d8115c24907
+prompts: null
+run_id: 201c5390c8534145a279f4c4f67fa225
+utc_time_created: '2026-04-30 04:54:33.401855'

@@ -27,7 +27,7 @@ build/
 *.onnx
 *.pth
 *.ckpt
-mlruns/
+# mlruns/ - tracked in Git for Option 1 (git-tracking branch)
 mlartifacts/
 
 # Data
