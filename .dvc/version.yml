@@ -1,0 +1,57 @@
+# DVC Versioning Information
+# Generated: 2026-04-30
+
+dvc:
+  version: "3.67.1"
+  source: "pip"
+  platform: "Python 3.12.13 on macOS-26.3.1-arm64-arm64bit"
+
+subprojects:
+  dvc_data: "3.18.3"
+  dvc_objects: "5.2.0"
+  dvc_render: "1.0.2"
+  dvc_task: "0.40.2"
+  scmrepo: "3.6.2"
+
+repository:
+  type: "dvc, git"
+  workspace: "apfs on /dev/disk3s1s1"
+  cache: "apfs on /dev/disk3s1s1"
+  caches: ["local"]
+
+tracked_datasets:
+  - name: "RealWaste"
+    path: "data/RealWaste"
+    dvc_file: "data/RealWaste.dvc"
+    md5: "c037f76224ef4a6a219ad60815e4b33c.dir"
+    size: 688308374
+    nfiles: 4752
+    description: "Waste classification dataset (6 classes, ~3,077 images)"
+
+  - name: "MLflow Artifacts"
+    path: "mlruns"
+    dvc_file: "mlruns.dvc"
+    md5: "9ec7831824579c5e86a38e48d93d30f0.dir"
+    size: 71508270
+    nfiles: 18
+    description: "MLflow experiment tracking artifacts (models, metrics)"
+
+remotes:
+  - name: "localremote"
+    url: "/Users/pritamwani/dvc-storage/realwaste"
+    default: true
+    tracked_files:
+      - "data/RealWaste"
+      - "mlruns"
+
+  - name: "myremote"
+    url: "/path/to/local/storage"
+    default: false
+
+config:
+  autostage: true
+  check_update: false
+
+cache:
+  types: ["reflink", "hardlink", "symlink"]
+  directory: "apfs on /dev/disk3s1s1"

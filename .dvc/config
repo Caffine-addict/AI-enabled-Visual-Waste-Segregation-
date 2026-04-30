@@ -1,6 +1,23 @@
 [core]
     remote = localremote
+    autostage = true
+    check_update = false
+
+# DVC Version Information
+# DVC Version: 3.67.1
+# Python: 3.12.13
+# Platform: macOS-26.3.1-arm64-arm-64bit
+# dvc_data: 3.18.3
+# dvc_objects: 5.2.0
+# dvc_render: 1.0.2
+# dvc_task: 0.40.2
+# scmrepo: 3.6.2
+
 ['remote "myremote"']
     url = /path/to/local/storage
+
 ['remote "localremote"']
     url = /Users/pritamwani/dvc-storage/realwaste
+    # Tracked datasets:
+    # - data/RealWaste/ (4752 files, 688.3MB) - Waste images dataset
+    # - mlruns/ (18 files, 71.5MB) - MLflow experiment artifacts
