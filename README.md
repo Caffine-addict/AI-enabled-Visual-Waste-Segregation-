@@ -6,7 +6,9 @@ A production-ready MLOps project for automated waste classification using deep l
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18-orange)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)
 ![MLflow](https://img.shields.io/badge/MLflow-2.20-purple)
+![DVC](https://img.shields.io/badge/DVC-3.67-blueviolet)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
+![CI/CD](https://github.com/Caffine-addict/AI-enabled-Visual-Waste-Segregation-/actions/workflows/ci-cd.yml/badge.svg)
 
 ## 🚀 Features
 
@@ -16,7 +18,10 @@ A production-ready MLOps project for automated waste classification using deep l
 - **API Server**: FastAPI-based REST API for real-time inference
 - **Web Interface**: Gradio-based demo UI for easy testing
 - **Experiment Tracking**: MLflow integration for monitoring training
-- **Data Versioning**: DVC for dataset management
+- **Data Versioning**: DVC for dataset and model artifact management
+  - Track `data/RealWaste/` (~3,077 images) with DVC
+  - Track `mlruns/` (MLflow artifacts) with DVC
+  - Local remote: `/Users/pritamwani/dvc-storage/realwaste`
 - **Containerized**: Docker and Docker Compose support
 
 ## 📊 Model Performance (EfficientNetV2-S)
@@ -188,11 +193,20 @@ kubectl apply -f k8s/deployment.yaml
 
 ## 🔄 CI/CD
 
-The project includes GitHub Actions workflows for:
-- Linting and testing
-- Docker image building
+The project includes GitHub Actions workflows (`.github/workflows/ci-cd.yml`) with DVC support:
+- Linting and testing (with DVC data pulling)
+- Docker image building (with DVC data access)
 - Model registration to MLflow
 - Deployment to production
+
+### DVC in CI/CD
+The pipeline automatically:
+1. Installs DVC package
+2. Configures DVC remote
+3. Pulls tracked data (`data/RealWaste/`, `mlruns/`)
+4. Runs tests with access to versioned data
+
+Check the [CI/CD Pipeline](https://github.com/Caffine-addict/AI-enabled-Visual-Waste-Segregation-/actions) status.
 
 ## 📈 Monitoring
 
@@ -236,16 +250,29 @@ Configuration files in `configs/`:
 
 ## 🎓 Dataset
 
-This project uses the **RealWaste** dataset. The full dataset (~3,077 images) is included in this repository under `data/RealWaste/`.
+This project uses the **RealWaste** dataset, version-controlled with **DVC** (Data Version Control).
 
 - **Source**: Original from [Kaggle - RealWaste Dataset](https://www.kaggle.com/datasets/aryashashank/realwaste)
 - **Classes**: 6 (Cardboard, Food Organics, Glass, Metal, Miscellaneous Trash, Paper)
 - **Total Images**: ~3,077
+- **DVC Tracking**: Dataset is tracked via `data/RealWaste.dvc` (metadata in Git, data in DVC remote)
+
+### DVC Versioning
+```bash
+# Pull dataset from DVC remote
+dvc pull
+
+# Track new dataset version
+dvc add data/RealWaste/
+git add data/RealWaste.dvc
+git commit -m "Update dataset version"
+dvc push
+```
 
 ### Data Structure
 ```
 data/
-└── RealWaste/
+└── RealWaste/           (tracked by DVC)
     ├── Cardboard/          (461 images)
     ├── Food Organics/     (411 images)
     ├── Glass/              (420 images)
@@ -273,3 +300,4 @@ MIT License - see LICENSE file for details.
 - [FastAPI](https://fastapi.tiangolo.com/) for the web framework
 - [MLflow](https://mlflow.org/) for experiment tracking
 - [DVC](https://dvc.org/) for data version control
+- [GitHub Actions](https://github.com/features/actions) for CI/CD with DVC support
